@@ -19,15 +19,6 @@ The back-end of the website was implemented using PHP and XAMPP.
 
 ![atlas](https://user-images.githubusercontent.com/34860262/214854908-3de1be85-b19d-4359-94dc-6ee47c06196b.png)
 
-## Demo
-### [wireframes](demo_wireframes.md)
-### [Front-end implementation](demo_html.md)
-
-The front-end implementation of the project has been done using React, Tailwind, and PHP XAMPP for the back end.
-
-## Installation
-To run the project locally, you will need to have the following software installed on your machine:
-
 ## Note
 This project is currently in private, but will be made public soon after then end of the current semester (~25/2/2023).
 
