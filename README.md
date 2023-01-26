@@ -15,9 +15,6 @@ The front-end of the website was implemented using React and Tailwind CSS. This 
 ## Back-end Implementation
 The back-end of the website was implemented using PHP and XAMPP.
 
-## Atlas current homepage:
-
-![atlas](https://user-images.githubusercontent.com/34860262/214854908-3de1be85-b19d-4359-94dc-6ee47c06196b.png)
 
 ## Note
 This project is currently in private, but will be made public soon after then end of the current semester (~25/2/2023).
