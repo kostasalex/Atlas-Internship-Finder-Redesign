@@ -17,6 +17,6 @@ The back-end of the website was implemented using PHP and XAMPP.
 
 
 ## Note
-This project is currently in private, but will be made public soon after the end of the current semester (~25/2/2023).
+This project is currently in private, but will be made public soon after the end of the current semester (~15/3/2023).
 
 
