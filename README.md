@@ -1,4 +1,4 @@
-# Atlas Internship Finder Redesign
+# Atlas Internship Finder Redesign       [Link to demo](https://atlas-new.vercel.app/)
 This project is a redesign and rebuild of the Greek internship finder website, Atlas. The original site was evaluated using Jacob's Ten Usability Heuristics and found to have poor user experience. The goal of this project is to improve the overall user experience by redesigning the site with a focus on user-centered design principles.
 
 Atlas site : https://atlas.grnet.gr/
@@ -17,6 +17,6 @@ The back-end of the website was implemented using PHP and XAMPP.
 
 
 ## Note
-This project is currently in private, but will be made public soon after the end of the current semester (~15/3/2023).
+Source code is temporary in private.
 
 
