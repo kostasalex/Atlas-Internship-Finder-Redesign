@@ -12,10 +12,6 @@ The front-end of the website was implemented using React and Tailwind CSS. This 
 
 ### [demo_html](demo_html.md)
 
-## Back-end Implementation
-The back-end of the website was implemented using PHP and XAMPP.
-
-
 ## Note
 Source code is temporary in private.
 
